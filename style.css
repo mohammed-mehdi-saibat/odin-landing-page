@@ -133,3 +133,35 @@ body {
   font-weight: 400;
 }
 /* info styling */
+/* quote styling */
+.quote {
+  height: 500px;
+  background-color: #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quote .quote-text {
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  border-left: 3px solid #1f2937;
+  border-bottom: 3px solid #1f2937;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.quote .quote-text h1 {
+  font-size: 36px;
+  font-weight: 200;
+  font-style: italic;
+  color: #1f2937;
+}
+.quote .quote-text p {
+  align-self: self-end;
+  margin-top: -25px;
+  color: #3882f6;
+}
+/* quote styling */
