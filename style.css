@@ -165,3 +165,40 @@ body {
   color: #3882f6;
 }
 /* quote styling */
+/* call to action styling */
+.call-to-action {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.call-to-action .box {
+  background-color: #3882f6;
+  padding: 60px 90px;
+  width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+}
+.call-to-action .box .box-text {
+  color: #f9faf8;
+}
+.call-to-action .box .box-text p {
+  font-weight: 300;
+}
+.call-to-action .box .button {
+  margin-right: 30px;
+}
+.call-to-action .box .button button {
+  margin-top: 10px;
+  background-color: #3882f6;
+  color: white;
+  border: 2px solid white;
+  padding: 7px 30px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+}
+/* call to action styling */
