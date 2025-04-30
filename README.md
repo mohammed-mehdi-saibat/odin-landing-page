@@ -20,8 +20,7 @@ The goal of this project was to practice basic HTML and CSS skills by building a
 
 ## Live Demo
 
-[View the Live Page Here](#)  
-_(Replace `#` with your live link when you deploy it!)_
+[View the Live Page Here](https://mohammed-mehdi-saibat.github.io/odin-landing-page/)
 
 ## Screenshots
 
